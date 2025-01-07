@@ -76,3 +76,12 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+#description-container {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f9f9f9; /* Light gray background */
+    border: 1px solid #ddd; /* Subtle border for visibility */
+    color: #333; /* Text color */
+    font-size: 16px;
+    line-height: 1.5;
+}
